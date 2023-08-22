@@ -1,0 +1,21 @@
+.com-container{
+    justify-content: space-around;
+    gap: 1rem;
+
+}
+
+.com-container>img{
+    width: 9rem;
+    
+}
+
+@media(max-width:640px){
+
+    
+    
+    .com-container>img{
+        width: 7rem;
+        
+    }
+
+}
